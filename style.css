@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+input:focus{
+	outline:0;
+}
+
+#envia{
+    margin-top: 20px;
+}
+
+
+#resultado{
+    padding: 1rem;
+}
